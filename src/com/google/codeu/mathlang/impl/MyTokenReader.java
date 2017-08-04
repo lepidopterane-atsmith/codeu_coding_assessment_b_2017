@@ -12,6 +12,22 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+/*
+ * Hey, I'm really sorry that my solution is not complete. 
+ * It's not the best example of my growth because I learned a ton 
+ * but we just finished the seventh feature last night due to life
+ * things on my teammates' ends, so I did the best I could in the 
+ * time allotted.
+ * 
+ * Extra things to test if I'd finished earlier: error cases with 
+ * one or two tokens out of place, such as a symbol token in a 
+ * string " + "
+ * 
+ * the three-quote conundrum "\" \" \" ;"
+ * 
+ * whatever this is "\" \'\n \" ;"
+ */
+
 package com.google.codeu.mathlang.impl;
 
 import java.io.IOException;
